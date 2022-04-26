@@ -1,0 +1,117 @@
+p{
+    font-family: arial;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+.container{
+    border: solid;
+    border-color: rgb(163, 152, 152);
+    border-radius: 6px;
+    margin-top: 15px;
+    width: 300px;
+    border-width: 2px;
+}
+
+.home-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 12px;
+    align-items: center;
+  
+    
+}
+
+.home{
+  color: black;
+  font-weight: bold;
+}
+
+.number{
+    background-color: rgb(62, 62, 218);
+    color: white;
+    border: solid;
+   text-align: center;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 5px 8px;
+}
+
+.home-container{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(160, 92, 223);
+    padding: 8px;
+    width: 500px;
+    align-items: center;
+}
+
+.home-con-div{
+    color: white;
+font-weight: bold;
+font-size: 12px;
+}
+
+.search{
+    border-radius: 20px;
+    width: 300px;
+    border: none;
+    padding-left: 10px;
+}
+
+.download{
+    background-color: rgb(160, 92, 223);
+    border: solid;
+    border-color: white;
+    border-radius: 7px;
+    border-width: 1px;
+    padding: 5px;
+    font-size: 10px;
+    color: white;
+}
+
+.image-div{
+    margin-top: 25px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 300px;
+   margin-bottom: 20px;
+   
+}
+
+.Rex{
+width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius:25px;
+    margin-right: 15px;
+}
+
+.mutual-div{
+    width: 200px;
+}
+.Oliver{
+    font-weight: bold;
+    margin-bottom: 6px;
+    font-size: 18px;
+}
+.cat{
+font-weight: bold;
+color: rgb(153, 143, 143);
+font-size: 16px;
+}
+.follow{
+    color: white;
+    background-color: rgb(32, 112, 202);
+    font-weight: bold;
+    border: none;
+    font-size: 18px;
+    width: 80px;
+    border-radius: 3px;
+    padding: 10px;
+}
